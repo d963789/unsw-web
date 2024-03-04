@@ -1,0 +1,3845 @@
+.www-unsw-edu-au-by {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.www-unsw-edu-au-by .overlap-wrapper {
+  width: 1920px;
+  height: 8507.53px;
+}
+
+.www-unsw-edu-au-by .overlap {
+  position: relative;
+  height: 8488px;
+}
+
+.www-unsw-edu-au-by .div-background-shape {
+  position: absolute;
+  width: 1920px;
+  height: 964px;
+  top: 0;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .div-aem-grid {
+  position: absolute;
+  width: 1600px;
+  height: 8488px;
+  top: 0;
+  left: 160px;
+}
+
+.www-unsw-edu-au-by .header {
+  position: absolute;
+  width: 1600px;
+  height: 100px;
+  top: 49px;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #ebebeb;
+  box-shadow: 0px 8px 16px #0000000a;
+}
+
+.www-unsw-edu-au-by .link-unsw-png {
+  position: absolute;
+  width: 151px;
+  height: 64px;
+  top: 18px;
+  left: 134px;
+  background-image: url(./img/link-unsw-0-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .nav {
+  position: absolute;
+  width: 1198px;
+  height: 100px;
+  top: 0;
+  left: 285px;
+}
+
+.www-unsw-edu-au-by .list-item-link-study {
+  position: absolute;
+  width: 40px;
+  height: 28px;
+  top: 35px;
+  left: 548px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link {
+  position: absolute;
+  width: 67px;
+  height: 28px;
+  top: 35px;
+  left: 656px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .text-wrapper {
+  position: absolute;
+  width: 65px;
+  height: 28px;
+  top: 35px;
+  left: 790px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div {
+  position: absolute;
+  width: 108px;
+  height: 28px;
+  top: 35px;
+  left: 922px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link-about {
+  position: absolute;
+  width: 64px;
+  height: 28px;
+  top: 35px;
+  left: 1098px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .button-search {
+  position: absolute;
+  width: 116px;
+  height: 98px;
+  top: 1px;
+  left: 1483px;
+}
+
+.www-unsw-edu-au-by .header-nav-list-item {
+  position: absolute;
+  width: 38px;
+  height: 16px;
+  top: 15px;
+  left: 930px;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 1px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .header-nav-list-item-2 {
+  width: 57px;
+  left: 1004px;
+  position: absolute;
+  height: 16px;
+  top: 15px;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 1px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .header-nav-list-item-3 {
+  width: 57px;
+  left: 1096px;
+  position: absolute;
+  height: 16px;
+  top: 15px;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 1px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .header-nav-list-item-4 {
+  width: 141px;
+  left: 1189px;
+  position: absolute;
+  height: 16px;
+  top: 15px;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 1px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .img {
+  position: absolute;
+  width: 20px;
+  height: 16px;
+  top: 17px;
+  left: 1366px;
+}
+
+.www-unsw-edu-au-by .header-nav-list-item-5 {
+  width: 94px;
+  left: 1390px;
+  position: absolute;
+  height: 16px;
+  top: 15px;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 1px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-follow {
+  position: absolute;
+  width: 49px;
+  height: 30px;
+  top: 164px;
+  left: 1090px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .symbol {
+  width: 22px;
+  height: 24px;
+  top: 166px;
+  left: 1162px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .symbol-2 {
+  width: 22px;
+  height: 24px;
+  top: 166px;
+  left: 1214px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .symbol-3 {
+  width: 22px;
+  height: 24px;
+  top: 166px;
+  left: 1266px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .symbol-4 {
+  width: 22px;
+  height: 24px;
+  top: 166px;
+  left: 1318px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .symbol-5 {
+  width: 22px;
+  height: 24px;
+  top: 166px;
+  left: 1370px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .symbol-6 {
+  width: 22px;
+  height: 24px;
+  top: 166px;
+  left: 1422px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .overlap-group {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  top: 165px;
+  left: -8861px;
+}
+
+.www-unsw-edu-au-by .div-wrapper {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.www-unsw-edu-au-by .text-wrapper-2 {
+  position: absolute;
+  width: 90px;
+  height: 28px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #3f61c4;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .text-wrapper-3 {
+  position: absolute;
+  width: 74px;
+  height: 28px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #3f61c4;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .text-wrapper-4 {
+  position: absolute;
+  width: 105px;
+  height: 28px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #3f61c4;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .text-wrapper-5 {
+  position: absolute;
+  width: 109px;
+  height: 28px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #3f61c4;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .text-wrapper-6 {
+  position: absolute;
+  width: 72px;
+  height: 28px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #3f61c4;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .text-wrapper-7 {
+  position: absolute;
+  width: 94px;
+  height: 28px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #3f61c4;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-aem-grid-2 {
+  position: absolute;
+  width: 1600px;
+  height: 7164px;
+  top: 196px;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .separator {
+  position: absolute;
+  width: 1600px;
+  height: 1px;
+  top: 1429px;
+  left: 0;
+  background-color: #ebebeb;
+}
+
+.www-unsw-edu-au-by .separator-2 {
+  position: absolute;
+  width: 1600px;
+  height: 1px;
+  top: 4193px;
+  left: 0;
+  background-color: #ebebeb;
+}
+
+.www-unsw-edu-au-by .list-item {
+  position: absolute;
+  width: 111px;
+  height: 160px;
+  top: 4374px;
+  left: 0;
+  background-color: #ffdc00;
+}
+
+.www-unsw-edu-au-by .span-day-of-week {
+  height: 24px;
+  top: 30px;
+  position: absolute;
+  width: 49px;
+  left: 31px;
+}
+
+.www-unsw-edu-au-by .text-wrapper-8 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: -1px;
+  left: 12px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .span-day-of-month {
+  height: 45px;
+  top: 54px;
+  position: absolute;
+  width: 49px;
+  left: 31px;
+}
+
+.www-unsw-edu-au-by .text-wrapper-9 {
+  position: absolute;
+  width: 23px;
+  height: 44px;
+  top: -1px;
+  left: 13px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .mar {
+  position: absolute;
+  width: 49px;
+  height: 30px;
+  top: 104px;
+  left: 31px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 24px;
+}
+
+.www-unsw-edu-au-by .list-item-f {
+  position: absolute;
+  width: 177px;
+  height: 24px;
+  top: 4373px;
+  left: 135px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-heading {
+  position: absolute;
+  width: 336px;
+  height: 96px;
+  top: 4413px;
+  left: 135px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30.5px;
+  letter-spacing: 0;
+  line-height: 48px;
+}
+
+.www-unsw-edu-au-by .overlap-2 {
+  position: absolute;
+  width: 105px;
+  height: 24px;
+  top: 4533px;
+  left: 135px;
+}
+
+.www-unsw-edu-au-by .list-item-link-l {
+  position: absolute;
+  width: 91px;
+  height: 24px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .symbol-7 {
+  width: 14px;
+  height: 14px;
+  top: 4px;
+  left: 91px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 14px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .list-item-2 {
+  position: absolute;
+  width: 111px;
+  height: 160px;
+  top: 4374px;
+  left: 533px;
+  background-color: #ffdc00;
+}
+
+.www-unsw-edu-au-by .text-wrapper-10 {
+  position: absolute;
+  width: 29px;
+  height: 24px;
+  top: -1px;
+  left: 10px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .p {
+  width: 258px;
+  left: 668px;
+  position: absolute;
+  height: 24px;
+  top: 4373px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-heading-2 {
+  width: 354px;
+  height: 48px;
+  left: 668px;
+  font-size: 31px;
+  white-space: nowrap;
+  position: absolute;
+  top: 4413px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 48px;
+}
+
+.www-unsw-edu-au-by .overlap-3 {
+  position: absolute;
+  width: 132px;
+  height: 24px;
+  top: 4533px;
+  left: 668px;
+}
+
+.www-unsw-edu-au-by .list-item-link-e {
+  position: absolute;
+  width: 119px;
+  height: 24px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .symbol-8 {
+  width: 14px;
+  height: 14px;
+  top: 4px;
+  left: 118px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 14px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .list-item-3 {
+  position: absolute;
+  width: 111px;
+  height: 160px;
+  top: 4374px;
+  left: 1067px;
+  background-color: #ffdc00;
+}
+
+.www-unsw-edu-au-by .list-item-f-2 {
+  width: 236px;
+  left: 1202px;
+  position: absolute;
+  height: 24px;
+  top: 4373px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-heading-3 {
+  width: 312px;
+  height: 96px;
+  left: 1202px;
+  font-size: 30.6px;
+  position: absolute;
+  top: 4413px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 48px;
+}
+
+.www-unsw-edu-au-by .overlap-4 {
+  position: absolute;
+  width: 118px;
+  height: 24px;
+  top: 4533px;
+  left: 1202px;
+}
+
+.www-unsw-edu-au-by .list-item-link-r {
+  position: absolute;
+  width: 105px;
+  height: 24px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .symbol-9 {
+  width: 14px;
+  height: 14px;
+  top: 4px;
+  left: 105px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 14px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .button {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 250px;
+  height: 60px;
+  top: 4614px;
+  left: 128px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.www-unsw-edu-au-by .text-wrapper-11 {
+  position: absolute;
+  width: 85px;
+  height: 24px;
+  top: 16px;
+  left: 66px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .after {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 19px;
+  left: 162px;
+}
+
+.www-unsw-edu-au-by .div-column-layout {
+  position: absolute;
+  width: 1600px;
+  height: 115px;
+  top: 4768px;
+  left: 0;
+  background-color: #e2e7f6;
+}
+
+.www-unsw-edu-au-by .heading-visit-our-wrapper {
+  position: relative;
+  height: 115px;
+}
+
+.www-unsw-edu-au-by .heading-visit-our {
+  position: absolute;
+  width: 861px;
+  height: 36px;
+  top: 46px;
+  left: 369px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 23.2px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .span {
+  color: #333333;
+}
+
+.www-unsw-edu-au-by .text-wrapper-12 {
+  color: #3f61c4;
+  text-decoration: underline;
+}
+
+.www-unsw-edu-au-by .link {
+  position: absolute;
+  width: 523px;
+  height: 96px;
+  top: 5904px;
+  left: 0;
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.www-unsw-edu-au-by .div-text {
+  position: absolute;
+  width: 375px;
+  height: 24px;
+  top: 36px;
+  left: 58px;
+}
+
+.www-unsw-edu-au-by .text-wrapper-13 {
+  position: absolute;
+  width: 208px;
+  height: 24px;
+  top: -2px;
+  left: 0;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-icon {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 36px;
+  left: 441px;
+  border-radius: 24px;
+}
+
+.www-unsw-edu-au-by .symbol-10 {
+  width: 14px;
+  height: 20px;
+  top: 0;
+  left: 5px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 20px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .link-2 {
+  position: absolute;
+  width: 523px;
+  height: 96px;
+  top: 5904px;
+  left: 539px;
+  background-color: #1a1e2b;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.www-unsw-edu-au-by .text-wrapper-14 {
+  position: absolute;
+  width: 143px;
+  height: 24px;
+  top: -2px;
+  left: 0;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .symbol-11 {
+  width: 21px;
+  height: 20px;
+  top: 0;
+  left: 2px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 20px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .link-3 {
+  position: absolute;
+  width: 523px;
+  height: 96px;
+  top: 5904px;
+  left: 1077px;
+  background-color: #ffdc00;
+}
+
+.www-unsw-edu-au-by .text-wrapper-15 {
+  position: absolute;
+  width: 117px;
+  height: 24px;
+  top: -2px;
+  left: 0;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 400;
+  color: #1a1e2b;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .symbol-12 {
+  width: 16px;
+  height: 20px;
+  top: 0;
+  left: 4px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #1a1e2b;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 20px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .overlap-5 {
+  position: absolute;
+  width: 2880px;
+  height: 1535px;
+  top: -768px;
+  left: -960px;
+  background-color: #ffdc00;
+}
+
+.www-unsw-edu-au-by .after-2 {
+  position: absolute;
+  width: 2880px;
+  height: 1535px;
+  top: 0;
+  left: 0;
+  background-color: #ffdc00;
+}
+
+.www-unsw-edu-au-by .heading-polly {
+  position: absolute;
+  width: 642px;
+  height: 348px;
+  top: 811px;
+  left: 1093px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 89.8px;
+  letter-spacing: 0;
+  line-height: 116px;
+}
+
+.www-unsw-edu-au-by .is-it-possible-to {
+  position: absolute;
+  width: 657px;
+  height: 136px;
+  top: 1170px;
+  left: 1093px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #333333;
+  font-size: 21.7px;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.www-unsw-edu-au-by .link-4 {
+  position: absolute;
+  width: 192px;
+  height: 56px;
+  top: 1372px;
+  left: 1093px;
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.www-unsw-edu-au-by .symbol-wrapper {
+  left: 23px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 16px;
+  border-radius: 24px;
+}
+
+.www-unsw-edu-au-by .symbol-13 {
+  width: 15px;
+  height: 16px;
+  top: 3px;
+  left: 4px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .text-wrapper-16 {
+  position: absolute;
+  width: 106px;
+  height: 24px;
+  top: 14px;
+  left: 63px;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .picture {
+  position: absolute;
+  width: 667px;
+  height: 667px;
+  top: 800px;
+  left: 1760px;
+}
+
+.www-unsw-edu-au-by .div-aem-grid-3 {
+  position: absolute;
+  width: 1333px;
+  height: 569px;
+  top: 798px;
+  left: 133px;
+}
+
+.www-unsw-edu-au-by .heading-strong {
+  width: 749px;
+  top: 45px;
+  left: 292px;
+  font-size: 46.5px;
+  text-align: center;
+  position: absolute;
+  height: 72px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-cmp-degree {
+  position: absolute;
+  width: 1333px;
+  height: 219px;
+  top: 158px;
+  left: 0;
+  background-color: #e0f2fb;
+  border-radius: 24px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+  box-shadow: 0px 4px 30px #0000000d;
+}
+
+.www-unsw-edu-au-by .div-cmp-degree-2 {
+  position: absolute;
+  width: 1225px;
+  height: 28px;
+  top: 26px;
+  left: 31px;
+}
+
+.www-unsw-edu-au-by .label-international {
+  position: absolute;
+  width: 93px;
+  height: 19px;
+  top: 8px;
+  left: 30px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #333333;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .label {
+  position: absolute;
+  width: 68px;
+  height: 24px;
+  top: 4px;
+  left: 131px;
+  background-color: #737373;
+  border-radius: 29px;
+}
+
+.www-unsw-edu-au-by .before {
+  position: relative;
+  width: 22px;
+  height: 22px;
+  top: 1px;
+  left: 2px;
+  background-color: #ffffff;
+  border-radius: 11px;
+}
+
+.www-unsw-edu-au-by .button-menu-filters {
+  position: absolute;
+  width: 62px;
+  height: 19px;
+  top: 9px;
+  left: 207px;
+}
+
+.www-unsw-edu-au-by .text-wrapper-17 {
+  position: absolute;
+  width: 47px;
+  height: 19px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #333333;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .SVG {
+  position: absolute;
+  width: 11px;
+  height: 7px;
+  top: 8px;
+  left: 51px;
+}
+
+.www-unsw-edu-au-by .search-wrapper {
+  position: absolute;
+  width: 1225px;
+  height: 60px;
+  top: 74px;
+  left: 31px;
+  background-color: #ffffff;
+  border-radius: 40px;
+}
+
+.www-unsw-edu-au-by .search {
+  position: relative;
+  height: 60px;
+  background-color: #fcfcfc;
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+  box-shadow: 0px 4px 30px #0000000d;
+}
+
+.www-unsw-edu-au-by .span-cmp-degree {
+  position: absolute;
+  width: 24px;
+  height: 28px;
+  top: 19px;
+  left: 1134px;
+}
+
+.www-unsw-edu-au-by .span-cmp-degree-2 {
+  position: absolute;
+  width: 40px;
+  height: 44px;
+  top: 11px;
+  left: 1168px;
+}
+
+.www-unsw-edu-au-by .link-view-all-wrapper {
+  position: absolute;
+  width: 1225px;
+  height: 28px;
+  top: 154px;
+  left: 31px;
+}
+
+.www-unsw-edu-au-by .link-view-all {
+  position: absolute;
+  width: 162px;
+  height: 19px;
+  top: 8px;
+  left: 1064px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #333333;
+  font-size: 15.4px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.www-unsw-edu-au-by .heading-start-your {
+  position: absolute;
+  width: 387px;
+  height: 56px;
+  top: 416px;
+  left: 473px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 31.6px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-5 {
+  position: absolute;
+  width: 192px;
+  height: 56px;
+  top: 513px;
+  left: 571px;
+  background-color: #ffdc00;
+}
+
+.www-unsw-edu-au-by .div-text-2 {
+  position: absolute;
+  width: 124px;
+  height: 24px;
+  top: 16px;
+  left: 18px;
+}
+
+.www-unsw-edu-au-by .text-wrapper-18 {
+  position: absolute;
+  width: 96px;
+  height: 24px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 400;
+  color: #1a1e2b;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-icon-2 {
+  left: 150px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 16px;
+  border-radius: 24px;
+}
+
+.www-unsw-edu-au-by .symbol-14 {
+  width: 11px;
+  height: 16px;
+  top: 3px;
+  left: 6px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #1a1e2b;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 16px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .heading-latest {
+  position: absolute;
+  width: 310px;
+  height: 72px;
+  top: 1491px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 46.1px;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-latest-stories {
+  height: 886px;
+  top: 1610px;
+  position: absolute;
+  width: 1600px;
+  left: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #c8c8c8;
+}
+
+.www-unsw-edu-au-by .link-6 {
+  position: absolute;
+  width: 1072px;
+  height: 837px;
+  top: 24px;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .div-image {
+  position: absolute;
+  width: 1072px;
+  height: 603px;
+  top: 0;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .heading-UNSW {
+  position: absolute;
+  width: 1004px;
+  height: 14px;
+  top: 626px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .heading-foundation {
+  position: absolute;
+  width: 232px;
+  height: 20px;
+  top: 664px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 22.2px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .in-a-defining-moment {
+  position: absolute;
+  width: 1044px;
+  height: 48px;
+  top: 708px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #181716;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .text-wrapper-19 {
+  position: absolute;
+  width: 83px;
+  height: 22px;
+  top: 780px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #181716;
+  font-size: 13.9px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-more-stories {
+  height: 837px;
+  position: absolute;
+  width: 496px;
+  top: 24px;
+  left: 1104px;
+}
+
+.www-unsw-edu-au-by .link-7 {
+  position: absolute;
+  width: 496px;
+  height: 448px;
+  top: 0;
+  left: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #c8c8c8;
+}
+
+.www-unsw-edu-au-by .div-image-2 {
+  position: absolute;
+  width: 496px;
+  height: 279px;
+  top: 0;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .heading-inside-the {
+  position: absolute;
+  width: 489px;
+  height: 14px;
+  top: 302px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 19.8px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .heading-waters-of {
+  position: absolute;
+  width: 395px;
+  height: 20px;
+  top: 340px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 22.8px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .text-wrapper-20 {
+  width: 83px;
+  top: 384px;
+  font-size: 14px;
+  position: absolute;
+  height: 22px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #181716;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-8 {
+  position: absolute;
+  width: 496px;
+  height: 183px;
+  top: 472px;
+  left: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #c8c8c8;
+}
+
+.www-unsw-edu-au-by .heading-UNSW-2 {
+  position: absolute;
+  width: 302px;
+  height: 38px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 31.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.www-unsw-edu-au-by .heading {
+  position: absolute;
+  width: 327px;
+  height: 38px;
+  top: 37px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 31.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.www-unsw-edu-au-by .heading-2 {
+  position: absolute;
+  width: 254px;
+  height: 44px;
+  top: 75px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 30.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.www-unsw-edu-au-by .text-wrapper-21 {
+  width: 83px;
+  top: 119px;
+  font-size: 13.9px;
+  position: absolute;
+  height: 22px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #181716;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-heading {
+  width: 470px;
+  height: 14px;
+  top: 678px;
+  left: 0;
+  color: #181716;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.www-unsw-edu-au-by .link-heading-boy-a {
+  width: 492px;
+  height: 14px;
+  top: 716px;
+  left: 0;
+  color: #181716;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.www-unsw-edu-au-by .link-heading-2 {
+  width: 97px;
+  height: 20px;
+  top: 754px;
+  left: 0;
+  color: #181716;
+  font-size: 30.1px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.www-unsw-edu-au-by .link-dec {
+  position: absolute;
+  width: 84px;
+  height: 22px;
+  top: 798px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #181716;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-aem-grid-4 {
+  position: absolute;
+  width: 1600px;
+  height: 570px;
+  top: 2558px;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .heading-explore {
+  position: absolute;
+  width: 612px;
+  height: 72px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 46.7px;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-cmp-browse {
+  position: absolute;
+  width: 300px;
+  height: 362px;
+  top: 112px;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e0e0e0;
+  box-shadow: 0px 4px 15px #0000001a;
+}
+
+.www-unsw-edu-au-by .list-item-link-2 {
+  position: absolute;
+  width: 149px;
+  height: 32px;
+  top: 140px;
+  left: 76px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 15.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link-UNSW {
+  position: absolute;
+  width: 143px;
+  height: 32px;
+  top: 174px;
+  left: 79px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 15.9px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link-3 {
+  position: absolute;
+  width: 117px;
+  height: 32px;
+  top: 208px;
+  left: 91px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 15.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link-how {
+  position: absolute;
+  width: 96px;
+  height: 32px;
+  top: 242px;
+  left: 102px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 15.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link-your {
+  position: absolute;
+  width: 229px;
+  height: 32px;
+  top: 276px;
+  left: 36px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 15.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .overlap-group-2 {
+  position: absolute;
+  width: 298px;
+  height: 130px;
+  top: 1px;
+  left: 1px;
+}
+
+.www-unsw-edu-au-by .link-9 {
+  position: absolute;
+  width: 298px;
+  height: 130px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/link-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .text-wrapper-22 {
+  position: absolute;
+  width: 166px;
+  height: 28px;
+  top: 83px;
+  left: 66px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 23.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-10 {
+  position: absolute;
+  width: 298px;
+  height: 130px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 3.89%, rgba(0, 0, 0, 0.6) 94.26%);
+}
+
+.www-unsw-edu-au-by .div-cmp-browse-2 {
+  left: 325px;
+  position: absolute;
+  width: 300px;
+  height: 362px;
+  top: 112px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e0e0e0;
+  box-shadow: 0px 4px 15px #0000001a;
+}
+
+.www-unsw-edu-au-by .list-item-link-entry {
+  position: absolute;
+  width: 143px;
+  height: 32px;
+  top: 140px;
+  left: 78px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link-4 {
+  position: absolute;
+  width: 173px;
+  height: 32px;
+  top: 174px;
+  left: 64px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 15.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link-types {
+  position: absolute;
+  width: 208px;
+  height: 32px;
+  top: 208px;
+  left: 46px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 15.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link-5 {
+  position: absolute;
+  width: 250px;
+  height: 64px;
+  top: 276px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 15.6px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+}
+
+.www-unsw-edu-au-by .link-11 {
+  position: absolute;
+  width: 298px;
+  height: 130px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/link-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .text-wrapper-23 {
+  position: absolute;
+  width: 147px;
+  height: 28px;
+  top: 83px;
+  left: 75px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 23.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-cmp-browse-3 {
+  left: 650px;
+  position: absolute;
+  width: 300px;
+  height: 362px;
+  top: 112px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e0e0e0;
+  box-shadow: 0px 4px 15px #0000001a;
+}
+
+.www-unsw-edu-au-by .list-item-link-6 {
+  position: absolute;
+  width: 174px;
+  height: 32px;
+  top: 140px;
+  left: 63px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 15.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link-7 {
+  position: absolute;
+  width: 140px;
+  height: 32px;
+  top: 174px;
+  left: 80px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link-8 {
+  position: absolute;
+  width: 181px;
+  height: 32px;
+  top: 208px;
+  left: 59px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 15.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-item-link-9 {
+  position: absolute;
+  width: 227px;
+  height: 32px;
+  top: 276px;
+  left: 37px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #61778f;
+  font-size: 15.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-12 {
+  position: absolute;
+  width: 298px;
+  height: 130px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/link.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .text-wrapper-24 {
+  position: absolute;
+  width: 139px;
+  height: 28px;
+  top: 83px;
+  left: 79px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 23.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .heading-experience {
+  position: absolute;
+  width: 426px;
+  height: 72px;
+  top: 3156px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 47.8px;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .button-previous-tab {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 4097px;
+  left: 24px;
+  background-color: #ffffff;
+  border-radius: 50px;
+  border: 1px solid;
+  border-color: #000000;
+  opacity: 0.5;
+}
+
+.www-unsw-edu-au-by .symbol-15 {
+  width: 48px;
+  height: 48px;
+  top: 0;
+  left: 1px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #1010104c;
+  font-size: 13.3px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .button-next-tab {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 4097px;
+  left: 90px;
+  background-color: #ffffff;
+  border-radius: 50px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.www-unsw-edu-au-by .symbol-16 {
+  width: 48px;
+  height: 48px;
+  top: 0;
+  left: 1px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  color: #000000;
+  font-size: 13.3px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .overlap-6 {
+  position: absolute;
+  width: 4008px;
+  height: 732px;
+  top: 3291px;
+  left: -12px;
+}
+
+.www-unsw-edu-au-by .tabpanel-link {
+  position: absolute;
+  width: 508px;
+  height: 732px;
+  top: 0;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .picture-2 {
+  position: absolute;
+  width: 484px;
+  height: 484px;
+  top: 0;
+  left: 12px;
+  background-image: url(./img/picture-2022-04-group-of-students-hp2-cropimg-width-1170-crop.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .div-base {
+  position: absolute;
+  width: 484px;
+  height: 248px;
+  top: 484px;
+  left: 12px;
+}
+
+.www-unsw-edu-au-by .heading-3 {
+  position: absolute;
+  width: 484px;
+  height: 96px;
+  top: 48px;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .lay-the-foundations {
+  position: absolute;
+  width: 416px;
+  height: 96px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 31.1px;
+  letter-spacing: 0;
+  line-height: 48px;
+}
+
+.www-unsw-edu-au-by .div-content {
+  position: absolute;
+  width: 484px;
+  height: 56px;
+  top: 160px;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .there-are-compelling {
+  position: absolute;
+  width: 440px;
+  height: 56px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .tabpanel-link-2 {
+  height: 732px;
+  left: 500px;
+  position: absolute;
+  width: 508px;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .picture-path-to {
+  position: absolute;
+  width: 484px;
+  height: 484px;
+  top: 0;
+  left: 12px;
+  background-image: url(./img/picture-path-to-anzac-parade-sunset-cropimg-width-1170-crop-sq.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .our-commitment-to {
+  position: absolute;
+  width: 353px;
+  height: 96px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 31.1px;
+  letter-spacing: 0;
+  line-height: 48px;
+}
+
+.www-unsw-edu-au-by .we-re-always-looking {
+  position: absolute;
+  width: 406px;
+  height: 56px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .tabpanel-link-3 {
+  height: 732px;
+  left: 1000px;
+  position: absolute;
+  width: 508px;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .picture-bees {
+  position: absolute;
+  width: 484px;
+  height: 484px;
+  top: 0;
+  left: 12px;
+  background-image: url(./img/picture-bees-greenhouse-0001-cropimg-width-1170-crop-square-jp.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .our-researchers-are {
+  position: absolute;
+  width: 447px;
+  height: 96px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30.8px;
+  letter-spacing: 0;
+  line-height: 48px;
+}
+
+.www-unsw-edu-au-by .from-the-depths-of {
+  position: absolute;
+  width: 460px;
+  height: 56px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .tabpanel-link-4 {
+  height: 684px;
+  left: 1500px;
+  position: absolute;
+  width: 508px;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .picture-3 {
+  position: absolute;
+  width: 484px;
+  height: 484px;
+  top: 0;
+  left: 12px;
+  background-image: url(./img/picture-2018-05-micro-biomedical-research-centre-1321-0070-cro.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .div-base-2 {
+  position: absolute;
+  width: 484px;
+  height: 200px;
+  top: 484px;
+  left: 12px;
+}
+
+.www-unsw-edu-au-by .heading-4 {
+  width: 484px;
+  height: 48px;
+  top: 48px;
+  position: absolute;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .text-wrapper-25 {
+  position: absolute;
+  width: 396px;
+  height: 48px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 31.8px;
+  letter-spacing: 0;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-content-2 {
+  position: absolute;
+  width: 484px;
+  height: 56px;
+  top: 112px;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .text-wrapper-26 {
+  position: absolute;
+  width: 457px;
+  height: 56px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .tabpanel-link-5 {
+  height: 732px;
+  left: 2000px;
+  position: absolute;
+  width: 508px;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .picture-4 {
+  position: absolute;
+  width: 484px;
+  height: 484px;
+  top: 0;
+  left: 12px;
+  background-image: url(./img/picture-2019-03-mardi-gras-parade-0075-cropimg-width-1170-crop.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .where-everyone-can {
+  position: absolute;
+  width: 484px;
+  height: 96px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30.9px;
+  letter-spacing: 0;
+  line-height: 48px;
+}
+
+.www-unsw-edu-au-by .UNSW-embraces-equity {
+  position: absolute;
+  width: 430px;
+  height: 56px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .tabpanel-link-6 {
+  height: 684px;
+  left: 2500px;
+  position: absolute;
+  width: 508px;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .picture-5 {
+  position: absolute;
+  width: 484px;
+  height: 484px;
+  top: 0;
+  left: 12px;
+  background-image: url(./img/picture-2022-07-precincts-liverpool-cropimg-width-1170-crop-sq.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .we-re-building-a {
+  position: absolute;
+  width: 446px;
+  height: 48px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 31.2px;
+  letter-spacing: 0;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .UNSW-precincts-are {
+  position: absolute;
+  width: 469px;
+  height: 56px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .tabpanel-link-7 {
+  height: 684px;
+  left: 3000px;
+  position: absolute;
+  width: 508px;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .picture-6 {
+  position: absolute;
+  width: 484px;
+  height: 484px;
+  top: 0;
+  left: 12px;
+  background-image: url(./img/picture-2020-10-naidoc-week-0007-cropimg-width-1170-crop-squar.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .text-wrapper-27 {
+  position: absolute;
+  width: 448px;
+  height: 48px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 31.2px;
+  letter-spacing: 0;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .picture-your-future {
+  position: absolute;
+  width: 482px;
+  height: 56px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .tabpanel-link-8 {
+  height: 732px;
+  left: 3500px;
+  position: absolute;
+  width: 508px;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .picture-MFMH {
+  position: absolute;
+  width: 484px;
+  height: 484px;
+  top: 0;
+  left: 12px;
+  background-image: url(./img/picture-mfmh-twowomentalking-cropimg-width-1170-crop-square-jp.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .tune-in-to-the {
+  position: absolute;
+  width: 465px;
+  height: 96px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30.8px;
+  letter-spacing: 0;
+  line-height: 48px;
+}
+
+.www-unsw-edu-au-by .tablist-tab-of {
+  position: absolute;
+  width: 32px;
+  height: 4px;
+  top: 4069px;
+  left: 24px;
+  background-color: #000000;
+  border: 1px solid;
+}
+
+.www-unsw-edu-au-by .tablist-tab-of-2 {
+  position: absolute;
+  width: 32px;
+  height: 4px;
+  top: 4069px;
+  left: 64px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.www-unsw-edu-au-by .tablist-tab-of-3 {
+  position: absolute;
+  width: 32px;
+  height: 4px;
+  top: 4069px;
+  left: 104px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.www-unsw-edu-au-by .tablist-tab-of-4 {
+  position: absolute;
+  width: 32px;
+  height: 4px;
+  top: 4069px;
+  left: 144px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.www-unsw-edu-au-by .tablist-tab-of-5 {
+  position: absolute;
+  width: 32px;
+  height: 4px;
+  top: 4069px;
+  left: 184px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.www-unsw-edu-au-by .tablist-tab-of-6 {
+  position: absolute;
+  width: 32px;
+  height: 4px;
+  top: 4069px;
+  left: 224px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.www-unsw-edu-au-by .heading-key-dates {
+  position: absolute;
+  width: 219px;
+  height: 72px;
+  top: 4255px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 45.6px;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .heading-explore-a {
+  width: 658px;
+  top: 4976px;
+  left: 0;
+  font-size: 47.2px;
+  position: absolute;
+  height: 72px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-picture {
+  left: 0;
+  background-image: url(./img/link-picture-220617-unsw-lawjustice-printres-212-cropimg-wid.png);
+  position: absolute;
+  width: 517px;
+  height: 517px;
+  top: 5095px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .link-heading-3 {
+  width: 442px;
+  height: 96px;
+  top: 5665px;
+  left: 0;
+  color: #000000;
+  font-size: 31.1px;
+  line-height: 48px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.www-unsw-edu-au-by .link-picture-2 {
+  left: 541px;
+  background-image: url(./img/link-picture-220616-unsw-lawjustice-printres-36-cropimg-widt.png);
+  position: absolute;
+  width: 517px;
+  height: 517px;
+  top: 5095px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .link-heading-using {
+  width: 505px;
+  height: 144px;
+  top: 5665px;
+  left: 541px;
+  color: #000000;
+  font-size: 30.8px;
+  line-height: 48px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.www-unsw-edu-au-by .link-picture-3 {
+  position: absolute;
+  width: 517px;
+  height: 517px;
+  top: 5095px;
+  left: 1083px;
+  background-image: url(./img/link-picture-2021-12-16-unsw-business-screen-159-cropimg-wid.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .link-heading-would {
+  width: 478px;
+  height: 96px;
+  top: 5665px;
+  left: 1083px;
+  color: #000000;
+  font-size: 31.1px;
+  line-height: 48px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.www-unsw-edu-au-by .div-aem-grid-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 1070px;
+  top: 6094px;
+  left: -160px;
+  background-color: #e2e7f6;
+}
+
+.www-unsw-edu-au-by .div-aem-grid-5 {
+  position: relative;
+  width: 1600px;
+  height: 1070px;
+  left: 160px;
+}
+
+.www-unsw-edu-au-by .heading-alumni {
+  width: 158px;
+  top: 61px;
+  left: 0;
+  font-size: 45.8px;
+  position: absolute;
+  height: 72px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-latest-stories-2 {
+  height: 858px;
+  top: 180px;
+  position: absolute;
+  width: 1600px;
+  left: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #c8c8c8;
+}
+
+.www-unsw-edu-au-by .link-13 {
+  position: absolute;
+  width: 1072px;
+  height: 809px;
+  top: 24px;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .heading-innovators {
+  width: 735px;
+  height: 20px;
+  top: 626px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 22.2px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .successful {
+  position: absolute;
+  width: 1050px;
+  height: 76px;
+  top: 670px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #181716;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .text-wrapper-28 {
+  width: 83px;
+  top: 770px;
+  font-size: 13.9px;
+  position: absolute;
+  height: 22px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #181716;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .div-more-stories-2 {
+  height: 809px;
+  position: absolute;
+  width: 496px;
+  top: 24px;
+  left: 1104px;
+}
+
+.www-unsw-edu-au-by .heading-where-the {
+  position: absolute;
+  width: 451px;
+  height: 14px;
+  top: 302px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .heading-meets {
+  position: absolute;
+  width: 266px;
+  height: 20px;
+  top: 340px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 23.2px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .text-wrapper-29 {
+  width: 82px;
+  top: 384px;
+  font-size: 13.8px;
+  position: absolute;
+  height: 22px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #181716;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .heading-UNSW-3 {
+  position: absolute;
+  width: 460px;
+  height: 38px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 31.2px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.www-unsw-edu-au-by .heading-position {
+  width: 444px;
+  height: 38px;
+  top: 37px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 31.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .heading-overall {
+  position: absolute;
+  width: 285px;
+  height: 44px;
+  top: 75px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 30.6px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.www-unsw-edu-au-by .text-wrapper-30 {
+  width: 82px;
+  top: 119px;
+  font-size: 14px;
+  position: absolute;
+  height: 22px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #181716;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-heading-find {
+  width: 441px;
+  height: 14px;
+  top: 678px;
+  left: 0;
+  color: #181716;
+  font-size: 19.8px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.www-unsw-edu-au-by .link-heading-4 {
+  position: absolute;
+  width: 269px;
+  height: 20px;
+  top: 716px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #181716;
+  font-size: 23.5px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-jul {
+  position: absolute;
+  width: 78px;
+  height: 22px;
+  top: 760px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #181716;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .overlap-7 {
+  position: absolute;
+  width: 1920px;
+  height: 1128px;
+  top: 7359px;
+  left: -160px;
+  background-color: #181716;
+}
+
+.www-unsw-edu-au-by .footer-footer-paints {
+  position: absolute;
+  width: 1600px;
+  height: 1128px;
+  top: 0;
+  left: 160px;
+  object-fit: cover;
+}
+
+.www-unsw-edu-au-by .footer-link-UNSW {
+  position: absolute;
+  width: 144px;
+  height: 61px;
+  top: 64px;
+  left: 160px;
+  background-image: url(./img/footer-link-unsw-logo-white-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .footer-link-UNSW-edu {
+  position: absolute;
+  width: 93px;
+  height: 21px;
+  top: 133px;
+  left: 160px;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer {
+  position: absolute;
+  width: 170px;
+  height: 36px;
+  top: 186px;
+  left: 480px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 23.4px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-2 {
+  width: 84px;
+  height: 19px;
+  top: 250px;
+  left: 480px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-3 {
+  width: 118px;
+  height: 19px;
+  top: 285px;
+  left: 480px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-4 {
+  width: 126px;
+  height: 19px;
+  top: 320px;
+  left: 480px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-5 {
+  width: 143px;
+  height: 19px;
+  top: 355px;
+  left: 480px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-6 {
+  width: 65px;
+  height: 36px;
+  top: 186px;
+  left: 800px;
+  font-family: "Inter", Helvetica;
+  font-size: 23.6px;
+  line-height: 36px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-7 {
+  width: 152px;
+  height: 19px;
+  top: 250px;
+  left: 800px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-8 {
+  width: 110px;
+  height: 19px;
+  top: 285px;
+  left: 800px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-9 {
+  width: 118px;
+  height: 19px;
+  top: 320px;
+  left: 800px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-10 {
+  width: 143px;
+  height: 19px;
+  top: 355px;
+  left: 800px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-11 {
+  width: 249px;
+  height: 36px;
+  top: 186px;
+  left: 1120px;
+  font-family: "Inter", Helvetica;
+  font-size: 23.6px;
+  line-height: 36px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-12 {
+  width: 68px;
+  height: 19px;
+  top: 250px;
+  left: 1120px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-13 {
+  width: 93px;
+  height: 19px;
+  top: 285px;
+  left: 1120px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-14 {
+  width: 110px;
+  height: 19px;
+  top: 320px;
+  left: 1120px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-15 {
+  width: 100px;
+  height: 36px;
+  top: 186px;
+  left: 1440px;
+  font-family: "Inter", Helvetica;
+  font-size: 23.6px;
+  line-height: 36px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-16 {
+  width: 210px;
+  height: 19px;
+  top: 250px;
+  left: 1440px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-17 {
+  width: 177px;
+  height: 19px;
+  top: 285px;
+  left: 1440px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-18 {
+  width: 135px;
+  height: 19px;
+  top: 320px;
+  left: 1440px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-19 {
+  width: 185px;
+  height: 19px;
+  top: 355px;
+  left: 1440px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-nav-footer-20 {
+  width: 101px;
+  height: 19px;
+  top: 390px;
+  left: 1440px;
+  font-family: "Roboto Mono", Helvetica;
+  font-size: 14px;
+  line-height: 19px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-UNSW {
+  position: absolute;
+  width: 173px;
+  height: 84px;
+  top: 234px;
+  left: 160px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .text-wrapper-31 {
+  font-weight: 700;
+}
+
+.www-unsw-edu-au-by .text-wrapper-32 {
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .footer-UNSW-CRICOS {
+  position: absolute;
+  width: 242px;
+  height: 84px;
+  top: 334px;
+  left: 160px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.www-unsw-edu-au-by .footer {
+  position: absolute;
+  width: 1920px;
+  height: 166px;
+  top: 531px;
+  left: 0;
+  background-color: #000000;
+}
+
+.www-unsw-edu-au-by .footer-2 {
+  position: absolute;
+  width: 1600px;
+  height: 166px;
+  top: 531px;
+  left: 160px;
+  background-color: #000000;
+}
+
+.www-unsw-edu-au-by .footer-link-logo {
+  position: absolute;
+  width: 176px;
+  height: 64px;
+  top: 579px;
+  left: 359px;
+  background-image: url(./img/footer-link-logo-partners-groupofeight-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .footer-link-logo-2 {
+  width: 91px;
+  left: 735px;
+  background-image: url(./img/footer-link-logo-partners-universitas21-png.png);
+  position: absolute;
+  height: 64px;
+  top: 579px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .footer-link-logo-3 {
+  position: absolute;
+  width: 201px;
+  height: 64px;
+  top: 579px;
+  left: 1025px;
+  background-image: url(./img/footer-link-logo-partners-apru-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .footer-link-logo-4 {
+  width: 134px;
+  left: 1426px;
+  background-image: url(./img/footer-link-logo-partners-plusalliance-png.png);
+  position: absolute;
+  height: 64px;
+  top: 579px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .footer-3 {
+  position: absolute;
+  width: 1920px;
+  height: 431px;
+  top: 697px;
+  left: 0;
+  background-color: #ffdc00;
+}
+
+.www-unsw-edu-au-by .footer-4 {
+  position: absolute;
+  width: 1600px;
+  height: 431px;
+  top: 697px;
+  left: 160px;
+  background-color: #ffdc00;
+}
+
+.www-unsw-edu-au-by .footer-flag-country {
+  position: absolute;
+  width: 108px;
+  height: 72px;
+  top: 761px;
+  left: 160px;
+  background-image: url(./img/footer-flag-country-aboriginal-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .footer-flag-country-2 {
+  position: absolute;
+  width: 108px;
+  height: 72px;
+  top: 761px;
+  left: 292px;
+  background-image: url(./img/footer-flag-country-torres-strait-islanders-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-unsw-edu-au-by .footer-heading {
+  position: absolute;
+  width: 334px;
+  height: 36px;
+  top: 760px;
+  left: 424px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 22.7px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .UNSW-is-located-on-wrapper {
+  position: absolute;
+  width: 672px;
+  height: 96px;
+  top: 805px;
+  left: 424px;
+}
+
+.www-unsw-edu-au-by .UNSW-is-located-on {
+  position: absolute;
+  width: 647px;
+  height: 96px;
+  top: -2px;
+  left: 0;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.www-unsw-edu-au-by .footer-link-the {
+  position: absolute;
+  width: 160px;
+  height: 24px;
+  top: 920px;
+  left: 424px;
+  font-family: "Roboto Mono", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-5 {
+  position: absolute;
+  width: 1600px;
+  height: 99px;
+  top: 1029px;
+  left: 160px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #02010133;
+}
+
+.www-unsw-edu-au-by .div-leftalign {
+  position: absolute;
+  width: 485px;
+  height: 34px;
+  top: 33px;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .link-follow-us {
+  position: absolute;
+  width: 98px;
+  height: 34px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 21.5px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list {
+  position: absolute;
+  width: 372px;
+  height: 33px;
+  top: 0;
+  left: 113px;
+}
+
+.www-unsw-edu-au-by .item {
+  position: absolute;
+  width: 29px;
+  height: 33px;
+  top: 0;
+  left: 0;
+}
+
+.www-unsw-edu-au-by .symbol-17 {
+  position: absolute;
+  width: 21px;
+  height: 24px;
+  top: 3px;
+  left: 4px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .item-2 {
+  width: 32px;
+  height: 33px;
+  left: 45px;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .symbol-18 {
+  width: 24px;
+  height: 24px;
+  top: 3px;
+  left: 4px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .item-3 {
+  width: 23px;
+  height: 33px;
+  left: 93px;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .symbol-19 {
+  width: 15px;
+  height: 24px;
+  top: 3px;
+  left: 4px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .item-4 {
+  width: 29px;
+  height: 33px;
+  left: 132px;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .item-5 {
+  width: 29px;
+  height: 33px;
+  left: 177px;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .item-6 {
+  width: 35px;
+  height: 33px;
+  left: 222px;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .symbol-20 {
+  width: 27px;
+  height: 24px;
+  top: 3px;
+  left: 4px;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+}
+
+.www-unsw-edu-au-by .item-7 {
+  width: 35px;
+  height: 33px;
+  left: 273px;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .item-8 {
+  width: 32px;
+  height: 33px;
+  left: 324px;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .overlap-group-3 {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  top: 0;
+  left: -10000px;
+}
+
+.www-unsw-edu-au-by .text-wrapper-33 {
+  position: absolute;
+  width: 70px;
+  height: 28px;
+  top: -1px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .list-2 {
+  position: absolute;
+  width: 569px;
+  height: 28px;
+  top: 36px;
+  left: 1031px;
+}
+
+.www-unsw-edu-au-by .link-privacy-wrapper {
+  width: 115px;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .link-privacy {
+  position: absolute;
+  width: 115px;
+  height: 22px;
+  top: 3px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 13.7px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-copyright-wrapper {
+  width: 147px;
+  height: 28px;
+  left: 131px;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .link-copyright {
+  position: absolute;
+  width: 147px;
+  height: 22px;
+  top: 3px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 13.9px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-accessibility-wrapper {
+  width: 81px;
+  height: 28px;
+  left: 294px;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .link-accessibility {
+  position: absolute;
+  width: 81px;
+  height: 22px;
+  top: 3px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 13.8px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-site-feedback-wrapper {
+  width: 90px;
+  height: 28px;
+  left: 391px;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .link-site-feedback {
+  position: absolute;
+  width: 90px;
+  height: 22px;
+  top: 3px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 13.9px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .link-complaints-wrapper {
+  width: 73px;
+  height: 28px;
+  left: 496px;
+  position: absolute;
+  top: 0;
+}
+
+.www-unsw-edu-au-by .link-complaints {
+  position: absolute;
+  width: 73px;
+  height: 22px;
+  top: 3px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 13.9px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.www-unsw-edu-au-by .footer-button {
+  position: absolute;
+  width: 91px;
+  height: 95px;
+  top: 0;
+  left: 1717px;
+  background-color: #ffdc00;
+}
+
+.www-unsw-edu-au-by .arrow-up-svg {
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: 16px;
+  left: 32px;
+  object-fit: cover;
+}
+
+.www-unsw-edu-au-by .text-wrapper-34 {
+  position: absolute;
+  width: 27px;
+  height: 28px;
+  top: 50px;
+  left: 32px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
